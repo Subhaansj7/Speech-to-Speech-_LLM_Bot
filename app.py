@@ -8,7 +8,7 @@ import cv2
 from tkinter import scrolledtext
 
 #OpenAI API key
-openai.api_key = 'hidden cuz cant share key on GIT'  # Replace with your OpenAI API key
+openai.api_key = 'hidden cuz cant share key on GIT' 
 
 #recognizer and text-to-speech engine
 recognizer = sr.Recognizer()
